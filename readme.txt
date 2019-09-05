@@ -1,4 +1,3 @@
-# dsdta
 === WP Dev Powers - Display Screen Dimensions to Admin Plugin ===
 Contributors: wpdevpowers, cmarabate, freemius
 Donate link: http://wpdevpowers.com/#footer
@@ -35,6 +34,5 @@ e.g.
 
 = 1.0 =
 * Deployed on wordpress.org
-
 
 
