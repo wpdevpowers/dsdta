@@ -1,5 +1,5 @@
-# dsdta
-=== WP Dev Powers - Display Screen Dimensions to Admin Plugin ===
+# WP Dev Powers - Display Screen Dimensions to Admin Plugin
+
 Contributors: wpdevpowers, cmarabate, freemius
 Donate link: http://wpdevpowers.com/#footer
 Tags: screen dimensions, display dimensions, show admin dimensions, admin only, window dimensions, monitor dimensions, current screen dimensions, screen width, screen height, window width, window height, dsdta
